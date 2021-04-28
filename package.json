@@ -1,0 +1,25 @@
+{
+  "name": "my-test-app",
+  "version": "1.0.0",
+  "description": "My awesome new app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarkant/package-json-guide.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "package.json",
+    "tutorial"
+  ],
+  "author": "Tarek Jellali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarkant/package-json-guide/issues"
+  },
+  "homepage": "https://github.com/tarkant/package-json-guide#readme"
+}
